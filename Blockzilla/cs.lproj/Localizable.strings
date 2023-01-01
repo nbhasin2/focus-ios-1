@@ -175,8 +175,23 @@
 /* Button label used to close a menu that displays as a popup. */
 "Menu.Close" = "Zavřít";
 
+/* Text for a label that indicates the title of button from onboarding screen version 2. */
+"NewOnboarding.Button.Title.V2" = "Začít";
+
+/* Text for a label that indicates the subtitle for the onboarding screen version 2. */
+"NewOnboarding.Subtitle.V2" = "Rychlost. Soukromí. Žádné rozptylování.";
+
 /* Text for a label that indicates the title of button from onboarding screen */
 "Onboarding.Button.Title" = "Začít prohlížet";
+
+/* Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2. */
+"Onboarding.DefaultBrowser.BottomButtonTitle.V2" = "Přeskočit";
+
+/* Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar) */
+"Onboarding.DefaultBrowser.Title.V2" = "%@ není jako ostatní prohlížeče";
+
+/* Text for a label that indicates the title of the top button from the default browser onboarding screen version 2. */
+"Onboarding.DefaultBrowser.TopButtonTitle.V2" = "Nastavit jako výchozí prohlížeč";
 
 /* Text for a label that indicates the description of history section from onboarding screen. */
 "Onboarding.History.Description" = "Smažte svou historii prohlížení, hesla a cookies a zabraňte jedním klepnutím nechtěným reklamám, aby vás pronásledovaly.";
@@ -406,6 +421,9 @@
 /* Text for the share menu option when a user wants to remove the site from Shortcuts */
 "ShareMenu.RemoveFromShortcuts" = "Odebrat ze zkratek";
 
+/* Toast displayed to the user after removing the item from the Shortcuts. */
+"ShareMenu.RemoveShortcut.Confirm" = "Zkratka odebrána";
+
 /* Text for the share menu option when a user wants to reload the site as a desktop */
 "ShareMenu.RequestDesktop" = "Verze stránky pro počítač";
 
@@ -438,6 +456,9 @@
 
 /* Text for the rename shortcut alert secondary action. */
 "ShortcutView.RenameShortcutAlertSecondaryAction" = "Zrušit";
+
+/* This is the button text that is displayed in the Show Me How Onboarding Screen */
+"ShowMeHowOnboarding.ButtonText.V2" = "Hotovo";
 
 /* Button to add a favorite URL to Siri. */
 "Siri.add" = "Přidat";
@@ -514,8 +535,14 @@
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "Chybí na stránce obsah nebo se chová podivně?";
 
+/* This is the body text that is displayed for the Context Menu icon tooltip */
+"TooltipBodyText.ContextMenu" = "Všechny možnosti zabezpečení a ochrany soukromí najdete v nastavení.";
+
 /* This is the body text that is displayed for the Privacy tooltip */
 "TooltipBodyText.Privacy" = "Tato výchozí nastavení poskytují silnou ochranu. Můžete je ale jednoduše nastavit podle vlastních potřeb.";
+
+/* This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar). */
+"TooltipBodyText.ShieldIcon" = "Aplikace %@ zabránila tomuto serveru ve vašem sledování. Klepnutím na ikonu štítu se dozvíte, co bylo zablokováno.";
 
 /* This is the body text that is displayed for the Trash icon tooltip */
 "TooltipBodyText.TrashIcon" = "Klepnutím na ikonu koše kdykoliv zahladíte všechny stopy po vašem prohlížení.";
@@ -573,4 +600,10 @@
 
 /* Text for the URL bar showing the number of trackers blocked on a webpage. */
 "URL.trackersBlockedLabel" = "Zablokováno sledovacích prvků";
+
+/* Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget */
+"WidgetOnboardingCard.ActionButton" = "Jak na to";
+
+/* Title shown on card view explaining the app has a widget option */
+"WidgetOnboardingCard.Title" = "Historie prohlížení vymazána 🎉";
 
