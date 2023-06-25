@@ -403,9 +403,6 @@
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "Повторювати тему системи";
 
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "Що нового";
-
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "ШВИДКІ КОМАНДИ SIRI";
 
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "Увімкнути Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "Докладніше про це та інші оновлення %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "Чому б і так, ми маємо новий вигляд!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Дії сторінки > Повна версія сайту";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "На сайті відсутній вміст або він дивно поводиться?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "Додайте ярлик %@ на головний екран. Після додавання віджета торкніться й утримуйте, щоб змінити його та вибрати інший ярлик.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "Швидкі дії";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "Шукати у %@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "Перейдіть до Налаштувань, щоб керувати певними опціями приватності та безпеки.";
