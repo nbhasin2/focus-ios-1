@@ -137,7 +137,7 @@
 "Edit" = "සංස්කරණය";
 
 /* Button label to reload the error page */
-"Error.tryAgainButton" = "යළි උත්සාහය";
+"Error.tryAgainButton" = "නැවත";
 
 /* Button label used for cancelling to open another app from Focus */
 "ExternalAppLink.cancelTitle" = "අවලංගු";
@@ -371,10 +371,10 @@
 "Settings.toggleBlockSocial2" = "සමාජ";
 
 /* Label for toggle on settings screen */
-"Settings.toggleFaceID" = "යෙදුම අගුළු ඇරීමට මුහුණු හැඳු.";
+"Settings.toggleFaceID" = "යෙදුම අගුළු ඇරීමට මුහුණේ හැඳු.";
 
 /* %@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu. */
-"Settings.toggleFaceIDDescription" = "ඒ.ස.නි. දැනටමත් යෙදුම තුළ විවෘත නම් මුහුණු හැඳු. මගින් %@ අගුළු හැරීමට හැකිය";
+"Settings.toggleFaceIDDescription" = "ඒ.ස.නි. දැනටමත් යෙදුම තුළ විවෘත නම් මුහුණේ හැඳු. මගින් %@ අගුළු හැරීමට හැකිය";
 
 /* Show home screen tips toggle label on settings screen */
 "Settings.toggleHomeScreenTips" = "මුල් තිර ඉඟි පෙන්වන්න";
@@ -402,9 +402,6 @@
 
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "පද්ධතියේ දීප්ත/අඳුරු ප්‍රකාරය භාවිතය";
-
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "අළුත් දෑ";
 
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "සිරි කෙටිමං";
@@ -500,16 +497,10 @@
 "Tip.Biometric.Title" = "අඩවියක් විවෘත විට %@ අගුළුලන්න:";
 
 /* Text for a label that indicates the description for biometric Face ID tip. */
-"Tip.BiometricFaceId.Description" = "මුහුණු හැඳු. සක්‍රිය කරන්න";
+"Tip.BiometricFaceId.Description" = "මුහුණක හැඳු. සක්‍රිය කරන්න";
 
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "ස්පර්ශ හැඳු. සක්‍රිය කරන්න";
-
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "මෙය ගැන හා %@ ආශ්‍රිත වෙනත් යාවත්කාල ගැන කියවන්න.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "ඇයි ඔව්, අපට නැවුම් නව පෙනුමක් තිබේ!";
 
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "පිටු ක්‍රියාමාර්ග > වැඩතල අඩවිය ඉල්ලන්න";
@@ -546,12 +537,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "අඩවියේ අන්තර්ගත මඟහැරී හෝ අමුතු ලෙස ක්‍රියා කරනවාද?";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "ඉක්මන් ක්‍රියාමාර්ග";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "%@ හි සොයන්න";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "පෞද්ගලික හා ආරක්‍ෂණ විකල්ප කළමනාකරණයට සැකසුම් වෙත යන්න.";
