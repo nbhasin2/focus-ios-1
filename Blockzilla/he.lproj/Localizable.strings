@@ -224,7 +224,7 @@
 "Onboarding.Title" = "ברוכים הבאים אל Firefox %@!";
 
 /* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
-"Safari.instructionsContentBlockers" = "יש להיכנס ל־Safari ולבחור בחוסמי תוכן";
+"Safari.instructionsContentBlockers" = "יש להקיש על Safari ולבחור בחוסמי תוכן";
 
 /* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
 "Safari.instructionsEnable" = "הפעלת %@";
@@ -400,9 +400,6 @@
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "שימוש במצב כהה/בהיר של המערכת";
 
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "מה חדש";
-
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "קיצורי דרך ל־Siri";
 
@@ -508,12 +505,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "הפעלת Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "מידע נוסף על העדכון הזה ואחרים עבור %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "ובכן כן, התחדשנו במראה חדש!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "פעולות דף > בקשת אתר למחשבים";
 
@@ -543,15 +534,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "חסר תוכן כלשהו באתר או שהאתר לא פועל כצפוי?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "ניתן להוסיף קיצור דרך ל־%@ למסך הבית שלך. לאחר הוספת הוידג’ט, יש ללחוץ ולהחזיק כדי לערוך אותו ולבחור בקיצור דרך שונה.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "פעולות מהירות";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "חיפוש ב־%@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "ניתן לעבור להגדרות כדי לנהל אפשרויות פרטיות ואבטחה.";
@@ -630,6 +612,9 @@
 
 /* Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget */
 "WidgetOnboardingCard.ActionButton" = "הראו לי כיצד";
+
+/* Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar). */
+"WidgetOnboardingCard.Subtitle" = "ניתן לך להמשיך בגלישה הפרטית שלך, אבל אולי קודם כדאי להוסיף את היישומון של %@ למסך הבית שלך לצורך הפעלה מהירה יותר.";
 
 /* Title shown on card view explaining the app has a widget option */
 "WidgetOnboardingCard.Title" = "היסטוריית הגלישה נמחקה! 🎉";
