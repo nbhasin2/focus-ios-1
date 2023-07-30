@@ -403,9 +403,6 @@
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "使用系統亮/暗模式";
 
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "有什麼新鮮事";
-
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "Siri 捷徑";
 
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "開啟 Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "了解 %@ 此版本與其他版本更新的更多資訊。";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "當然，我們有全新設計！";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "頁面操作 > 開啟桌面版網站";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "網站的內容不見了，或功能變得怪怪的嗎？";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "把 %@ 捷徑加到主畫面。新增小工具之後，請長按小工具選擇不同的捷徑。";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "快速操作";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "使用 %@ 搜尋";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "前往「設定」管理各種隱私與安全性選項。";
