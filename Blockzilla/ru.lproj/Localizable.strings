@@ -311,7 +311,7 @@
 "Settings.Search.NewSearchEngineAdded" = "Добавлена новая поисковая система.";
 
 /* Label for button to bring deleted default engines back */
-"Settings.Search.RestoreEngine" = "Восстановить поисковые системы по умолчанию";
+"Settings.Search.RestoreEngine" = "Восстановить поисковые системы";
 
 /* Placeholder text for input of new search engine name */
 "Settings.Search.SearchEngineName" = "Имя поисковой системы";
@@ -402,9 +402,6 @@
 
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "Используйте Системный Светлый/Тёмный режим";
-
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "Что нового";
 
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "БЫСТРЫЕ КОМАНДЫ SIRI";
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "Включите Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "Подробнее об этом и других обновлениях %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "Почему бы и да, у нас новый внешний вид!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Действия на странице > Полная версия сайта";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "На сайте отсутствует контент или он ведёт себя странно?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "Добавить ярлык %@ на Домашний экран. После добавления виджета совершите долгое нажатие, чтобы отредактировать его и выбрать другой ярлык.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "Быстрые действия";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "Поиск в %@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "Перейдите в «Настройки» для управления специфичными настройками приватности и безопасности.";
