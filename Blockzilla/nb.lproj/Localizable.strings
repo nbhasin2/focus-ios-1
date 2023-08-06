@@ -197,7 +197,7 @@
 "Onboarding.DefaultBrowser.Title.V2" = "%@ er ikke som andre nettlesere";
 
 /* Text for a label that indicates the title of the top button from the default browser onboarding screen version 2. */
-"Onboarding.DefaultBrowser.TopButtonTitle.V2" = "Sett som standard nettleser";
+"Onboarding.DefaultBrowser.TopButtonTitle.V2" = "Bruk som standard nettleser";
 
 /* Text for a label that indicates the description of history section from onboarding screen. */
 "Onboarding.History.Description" = "Slett nettleserhistorikken, passordene, infokapslene og hindre uønskede annonser fra å følge deg med et enkelt klikk!";
@@ -341,7 +341,7 @@
 "Settings.sectionPrivacy" = "PERSONVERN";
 
 /* Label title for set as default browser row */
-"Settings.setAsDefaultBrowser" = "Sett som standard nettleser";
+"Settings.setAsDefaultBrowser" = "Bruk som standard nettleser";
 
 /* %@ is the name of the app. Description for set as default browser option */
 "Settings.setAsDefaultBrowserDescription" = "Angi at lenker fra nettsteder, e-postmeldinger og meldinger skal åpnes automatisk i %@.";
@@ -402,9 +402,6 @@
 
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "Bruk systemets lyst/mørkt modus";
-
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "Hva er nytt";
 
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "SIRI-SNARVEIER";
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "Slå på Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "Les mer om denne og andre oppdateringer til %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "Ja, vi har et friskt nytt utseende!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Sidehandlinger > Vis skrivebords­versjon";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "Mangler nettstedet innhold eller oppfører den seg rart?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "Legg til en %@-snarvei til hjem-skjermen. Når du har lagt til widgeten, trykker du på og holder nede for å redigere den og velger en annen snarvei.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "Hurtige handlinger";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "Søk i %@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "Gå til Innstillinger for å behandle spesifikke personvern- og sikkerhetsalternativer.";
