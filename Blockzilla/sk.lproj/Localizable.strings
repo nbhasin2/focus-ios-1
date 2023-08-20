@@ -20,7 +20,7 @@
 "About.rowHelp" = "Pomocník";
 
 /* Link to Privacy Notice in the About screen */
-"About.rowPrivacy" = "Zásady ochrany súkromia";
+"About.rowPrivacy" = "Vyhlásenie o ochrane osobných údajov";
 
 /* Label for row in About screen */
 "About.rowRights" = "Vaše práva";
@@ -403,9 +403,6 @@
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "Použiť tmavú/svetlú tému vzhľadu podľa systému";
 
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "Čo je nové";
-
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "SKRATKY PRE SIRI";
 
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "Zapnite Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "Prečítajte si viac o tejto a ďalších novinkách prehliadača %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "Áno, máme svieži nový vzhľad!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Akcie stránky > Verzia stránky pre počítače";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "Chýba na stránke obsah alebo sa správa zvláštne?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "Pridajte si na plochu skratku pre %@. Po pridaní miniaplikácie ju upravte ťuknutím a podržaním a vyberte inú skratku.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "Rýchle akcie";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "Hľadať v prehliadači %@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "Ak chcete spravovať konkrétne možnosti ochrany osobných údajov a zabezpečenia, prejdite do časti Nastavenia.";

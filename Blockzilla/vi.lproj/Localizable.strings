@@ -2,7 +2,7 @@
 "About.learnMoreButton" = "Tìm hiểu thêm";
 
 /* Label on About screen */
-"About.missionLabel" = "%@ được sản xuất bởi Mozilla. Nhiệm vụ của chúng tôi là thúc đẩy một Internet lành mạnh, cởi mở.";
+"About.missionLabel" = "%@ được sáng lập bởi Mozilla. Nhiệm vụ của chúng tôi là thúc đẩy một Internet lành mạnh, cởi mở.";
 
 /* Label on About screen */
 "About.privateBullet1" = "Tìm kiếm và duyệt ngay trong ứng dụng";
@@ -403,9 +403,6 @@
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "Sử dụng chế độ sáng/tối của hệ thống";
 
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "Có gì mới";
-
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "SIRI SHORTCUTS";
 
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "Bật Touch ID";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "Đọc thêm về điều này và các cập nhật khác cho %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "Chúng tôi có một giao diện mới!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Hành động trang> Yêu cầu trang web trên máy tính";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "Trang web thiếu nội dung hoặc hoạt động không đúng?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "Thêm lối tắt %@ vào màn hình chính của bạn. Sau khi thêm tiện ích, hãy nhấn và giữ để chỉnh sửa tiện ích và chọn một lối tắt khác.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "Hành động nhanh";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "Tìm kiếm trong %@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "Đi đến Cài đặt để quản lý các tùy chọn quyền riêng tư và bảo mật cụ thể.";
