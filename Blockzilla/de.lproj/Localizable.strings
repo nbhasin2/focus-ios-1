@@ -403,9 +403,6 @@
 /* Value for theme toggle in settings menu */
 "Settings.useSystemTheme" = "Hell-/Dunkel-Modus des Systems übernehmen";
 
-/* Title for What's new screen */
-"Settings.whatsNewTitle" = "Was ist neu";
-
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "SIRI-TASTATURKÜRZEL";
 
@@ -511,12 +508,6 @@
 /* Text for a label that indicates the description for biometric Touch ID tip. */
 "Tip.BiometricTouchId.Description" = "Touch ID aktivieren";
 
-/* Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Release.Description" = "Lesen Sie mehr über dieses und andere Updates zu %@.";
-
-/* Text for a label that indicates the title for release tip. */
-"Tip.Release.Title" = "Natürlich haben wir unser Aussehen verändert!";
-
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Aktionen für Seite → Desktop-Website anfordern";
 
@@ -552,15 +543,6 @@
 
 /* Text for a label that indicates the title for sites not working tip. */
 "Tip.SitesNotWorking.Title" = "Die Website verhält sich komisch oder es fehlen Inhalte?";
-
-/* Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar). */
-"TodayWidget.QuickActionGalleryDescription" = "Fügen Sie Ihrem Startbildschirm eine %@-Verknüpfung hinzu. Nachdem Sie das Widget hinzugefügt haben, berühren und halten Sie es, um es zu bearbeiten und eine andere Verknüpfung auszuwählen.";
-
-/* Quick Actions title when widget enters edit mode */
-"TodayWidget.QuickActionsGalleryTitle" = "Schnellaktionen";
-
-/* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp" = "In %@ suchen";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
 "TooltipBodyText.ContextMenu" = "Öffnen Sie die Einstellungen, um bestimmte Datenschutz- und Sicherheitsoptionen zu verwalten.";
